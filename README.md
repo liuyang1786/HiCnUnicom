@@ -85,7 +85,7 @@ Actions栏手动运行；
 
 ### 4.Actions日志删除
 1. 在github保留太多日志不太好，首先可以去 `Settings` - `Actions` - `Artifact and log retention` 设置自己想要的保存天数。
-2. 在Actions界面手动运行Delete old workflow runs，输入Number of days和Number of runs的数字，运行完毕后即只保留你设置的天数和项目剩余数。
+2.在Actions界面手动运行中，删除旧的工作流程运行，输入天数和运行数的数字，运行完成后即只保留您设置的天数和项目剩余数。
 
 
 ## 各版本使用教程  
